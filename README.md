@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Prediction
 
 A small machine-learning project that trains a scikit-learn regression model from student data.
@@ -38,3 +39,7 @@ python train_model.py --data data/student_data.csv --target score --output stude
 ```
 
 The trained pipeline is saved as a `.joblib` file in the project root.
+=======
+# student-performance-prediction
+A beginner-friendly machine learning project that predicts student exam scores based on study hours using Linear Regression in Python.
+>>>>>>> e36c5f8ac7df0887f550cea61044755b988daa68
